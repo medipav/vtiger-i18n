@@ -12,7 +12,7 @@ finder:
     - ar_ae
     - de_de
     - en_gb
-    #- en_us
+    - en_us
     - es_es
     - es_mx
     - fr_fr
