@@ -678,7 +678,7 @@ $languageStrings = [
 
     // SMSNotifier Phone Format Warning
     'LBL_PHONE_FORMAT_WARNING'        => 'assicurarsi che il numero di telefono in formato E.164 internazionale',
-    'LBL_PHONEFORMAT_WARNING_CONTENT' => 'Il numero E.164 formattazione può avere un massimo di quindici cifre e di solito sono scritte come segue: [+] [prefisso internazionale] [numero di abbonato comprensivo di prefisso] 
+    'LBL_PHONEFORMAT_WARNING_CONTENT' => 'Il numero E.164 formattazione può avere un massimo di quindici cifre e di solito sono scritte come segue: [+] [prefisso internazionale] [numero di abbonato comprensivo di prefisso]
                                            Ad esempio, per convertire un numero di telefono statunitense (415 599 2671) in formato E.164, uno avrebbe bisogno di aggiungere il prefisso \'+\' e il codice del paese (che è 1) davanti al numero (+1 415 599 2671 ). Nel Regno Unito e molti altri paesi a livello internazionale, composizione locale richiede l\'aggiunta di uno 0 davanti al numero di abbonato. Tuttavia, per utilizzare la formattazione E.164, questo 0 deve essere rimosso. Un numero come 020 7183 8750 nel Regno Unito sarebbe stato formattato come +44 20 7183 8750.',
     'LBL_WARNING' => 'Avvertenza',
 
@@ -779,7 +779,7 @@ $languageStrings = [
     'SINGLE_HelpDesk'          => 'Biglietto',
     'SINGLE_Accounts'          => 'Organizzazione',
     'SINGLE_Contacts'          => 'Contatto',
-    'SINGLE_Project'           => 'Progetto',
+    'SINGLE_Project'           => 'Cantiere',
     'LBL_ROLLUP_COMMENTS_INFO' => "Se Arrotolare è impostato su 'On' commenti su record correlati verrà mostrato.
                                    Ad esempio, se si sta visualizzando i commenti su un record Organizzazione, commenti aggiunti ai contatti correlate, Opportunities, Biglietti, .etc sarebbe anche essere visualizzati.",
     'LBL_ROLLUP_COMMENTS'         => 'Rollup Commenti',
@@ -925,7 +925,7 @@ e tra Virgolette.',
     'COMPANY_LOGO_HELP_TEXT_2' => 'È possibile modificare i dettagli dell\'azienda seguito da <br>
 \'Impostazioni CRM > Modelli > Dettagli dell\'Azienda\' pagina',
     'LBL_CHOOSE_PREFERENCES' => 'Scegliere le Preferenze',
-    'PREFERENCES_HELP_TEXT'  => 'La Valuta di Base - Scegliere la valuta principale. Se si utilizzano più<br> 
+    'PREFERENCES_HELP_TEXT'  => 'La Valuta di Base - Scegliere la valuta principale. Se si utilizzano più<br>
 valute, tutti i valori vengono convertiti valuta di base e memorizzati,<br>
 utilizzando il tasso di conversione è configurato in CRM.',
     'PREFERENCES_HELP_TEXT_2' => 'Le preferenze personali possono essere configurati dall\'utente nel proprio team.<br>
@@ -1003,7 +1003,7 @@ al di fuori di Vtiger.',
     'LBL_NO_ENGAGEMENTS_FOUND'               => 'Non riguardanti i punti di Contatto',
     'LBL_MARKETING'                          => 'MARKETING',
     'LBL_SALES'                              => 'VENDITA',
-    'LBL_PROJECT'                            => 'PROGETTI',
+    'LBL_PROJECT'                            => 'CANTIERI',
     'LBL_TOOLS'                              => 'UTENSILI',
     'LBL_TAGS'                               => 'Tag',
     'LBL_SHARE_TAGS'                         => 'Tag Pubblici',

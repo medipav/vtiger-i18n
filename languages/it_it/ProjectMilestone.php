@@ -17,7 +17,7 @@ $languageStrings = [
     'LBL_PROJECT_MILESTONE_INFORMATION'    => 'Cantiere Milestone Dettagli',
     'Project Milestone Name'               => 'Cantiere Milestone Nome',
     'Milestone Date'                       => 'Milestone Data',
-    'Project Milestone No'                 => 'Progetto Numero Milestone',
+    'Project Milestone No'                 => 'Cantiere Numero Milestone',
     'Type'                                 => 'Tipo',
     //picklist values
     'administrative'               => 'Amministrativo',

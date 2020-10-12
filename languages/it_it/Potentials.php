@@ -52,12 +52,12 @@ $languageStrings = [
     'LBL_CREATE_PROJECT'                      => 'Crea cantiere',
 
     //Potentials Custom Field Mapping
-    'LBL_CUSTOM_FIELD_MAPPING'=> 'Possibilità di progetto di mappatura',
+    'LBL_CUSTOM_FIELD_MAPPING'=> 'Possibilità di cantiere di mappatura',
 
     'Contact Name' => 'Nome Del Contatto',
 
 ];
 
 $jsLanguageStrings = [
-    'JS_SELECT_PROJECT_TO_CONVERT_LEAD' => 'La conversione richiede la selezione di progetti',
+    'JS_SELECT_PROJECT_TO_CONVERT_LEAD' => 'La conversione richiede la selezione di cantieri',
 ];

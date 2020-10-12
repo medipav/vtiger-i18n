@@ -69,8 +69,8 @@ $languageStrings = [
     'LBL_INFO'                             => 'Info',
     'LBL_GANTT_INFO1'                      => 'Far scorrere sul lato destro del compito di ampliare la durata',
     'LBL_GANTT_INFO2'                      => 'Trascinare sul centro del compito sinistra o per cambiare iniziale e quella finale.',
-    'LBL_EDIT_PROJECT_TASK_STATUS_COLOR'   => 'Modifica del progetto Task Colore Stato',
-    'LBL_SELECT_PROJECT_TASK_STATUS_COLOR' => 'Selezionare Progetto Task Colore Stato',
+    'LBL_EDIT_PROJECT_TASK_STATUS_COLOR'   => 'Modifica del cantiere Task Colore Stato',
+    'LBL_SELECT_PROJECT_TASK_STATUS_COLOR' => 'Selezionare Cantiere Task Colore Stato',
     'LBL_SELECT_STATUS'                    => 'Selezionare Stato',
     'LBL_EDIT_COLOR'                       => 'Modifica colore',
 ];
