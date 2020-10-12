@@ -8,12 +8,12 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-    'Project'                      => 'Progetto'                    , 
-	'SINGLE_Project'               => 'Progetto'                    , 
-	'LBL_ADD_RECORD'               => 'Add Project'                 , 
-	'LBL_RECORDS_LIST'             => 'Projects List'               , 
-	'LBL_PROJECT_INFORMATION'      => 'Informationi Progetto'       , 
-	'Project Name'                 => 'Nome Progetto'               , 
+    'Project'                      => 'Cantiere'                    ,
+	'SINGLE_Project'               => 'Cantiere'                    ,
+	'LBL_ADD_RECORD'               => 'Nuovo Cantiere'                 ,
+	'LBL_RECORDS_LIST'             => 'Lista Cantieri'               ,
+	'LBL_PROJECT_INFORMATION'      => 'Informationi Cantiere'       ,
+	'Project Name'                 => 'Nome Cantiere'               ,
 	'Start Date'                   => 'Data di Inizio'              , 
 	'Target End Date'              => 'Target End Date'             , 
 	'Actual End Date'              => 'Actual End Date'             , 
@@ -69,8 +69,8 @@ $languageStrings = array(
     'LBL_INFO' => 'Info',
     'LBL_GANTT_INFO1' => 'Far scorrere sul lato destro del compito di ampliare la durata',
     'LBL_GANTT_INFO2' => 'Trascinare sul centro del compito sinistra o per cambiare iniziale e quella finale.',
-    'LBL_EDIT_PROJECT_TASK_STATUS_COLOR' => 'Modifica del progetto Task Colore Stato',
-    'LBL_SELECT_PROJECT_TASK_STATUS_COLOR' => 'Selezionare Progetto Task Colore Stato',
+    'LBL_EDIT_PROJECT_TASK_STATUS_COLOR' => 'Modifica del cantiere Task Colore Stato',
+    'LBL_SELECT_PROJECT_TASK_STATUS_COLOR' => 'Selezionare Cantiere Task Colore Stato',
     'LBL_SELECT_STATUS' => 'Selezionare Stato',
     'LBL_EDIT_COLOR' => 'Modifica colore',
 );
