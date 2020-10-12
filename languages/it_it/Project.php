@@ -8,11 +8,11 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = [
-    'Project'                                  => 'Progetto',
-    'SINGLE_Project'                           => 'Progetto',
+    'Project'                                  => 'Cantiere',
+    'SINGLE_Project'                           => 'Cantiere',
     'LBL_ADD_RECORD'                           => 'Add Project',
     'LBL_RECORDS_LIST'                         => 'Projects List',
-    'LBL_PROJECT_INFORMATION'                  => 'Informationi Progetto',
+    'LBL_PROJECT_INFORMATION'                  => 'Informationi Cantiere',
     'Project Name'                             => 'Nome Progetto',
     'Start Date'                               => 'Data di Inizio',
     'Target End Date'                          => 'Target End Date',
