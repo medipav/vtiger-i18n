@@ -8,16 +8,16 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = [
-    'SINGLE_ProjectTask'              => 'Compito del progetto',
-    'LBL_ADD_RECORD'                  => 'Aggiungi attività di progetto',
-    'LBL_RECORDS_LIST'                => 'Progetto Elenco attività',
-    'LBL_PROJECT_TASK_INFORMATION'    => 'Progetto Task Dettagli',
-    'LBL_PROJECTS_LIST'               => 'Lista Progetti',
+    'SINGLE_ProjectTask'              => 'Compito del cantiere',
+    'LBL_ADD_RECORD'                  => 'Aggiungi attività di cantiere',
+    'LBL_RECORDS_LIST'                => 'Cantiere Elenco attività',
+    'LBL_PROJECT_TASK_INFORMATION'    => 'Cantiere Task Dettagli',
+    'LBL_PROJECTS_LIST'               => 'Lista Cantieri',
     'LBL_TASKS_LIST'                  => 'List Tasks',
     'LBL_MILESTONES_LIST'             => 'Lista Milestones',
-    'Project Task Name'               => 'Progetto Nome attività',
-    'Project Task No'                 => 'Progetto Task No',
-    'Project Task Number'             => 'Progetto Numero Task',
+    'Project Task Name'               => 'Cantiere Nome attività',
+    'Project Task No'                 => 'Cantiere Task No',
+    'Project Task Number'             => 'Cantiere Numero Task',
     'Status'                          => 'Stato',
     'Priority'                        => 'Priorità',
     'Progress'                        => 'Progress',
@@ -41,7 +41,7 @@ $languageStrings = [
     'Completed'                       => 'Completato',
     'Deferred'                        => 'Differite',
     'Canceled'                        => 'Cancellato',
-    'LBL_NO_DATE_VALUE_MSG'           => 'o Attività di progetto non hanno inizio e Data / o Fine',
+    'LBL_NO_DATE_VALUE_MSG'           => 'o Attività di cantiere non hanno inizio e Data / o Fine',
 
     'Canceled ' => 'Annullata',
 

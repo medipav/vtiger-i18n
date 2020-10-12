@@ -47,9 +47,9 @@ $languageStrings = [
     //Convert Potentials
     'LBL_CONVERT_POTENTIAL'                   => 'Convertire Opportunità',
     'LBL_POTENTIALS_FIELD_MAPPING'            => 'Opportunità Mapping Campo',
-    'LBL_CONVERT_POTENTIALS_ERROR'            => 'Devi abilitare progetto per convertire il Opportunity',
+    'LBL_CONVERT_POTENTIALS_ERROR'            => 'Devi abilitare cantiere per convertire il Opportunity',
     'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'Opportunità campo Mapping è incompleta (Impostazioni> Gestione moduli> Opportunità> Opportunità campo Mapping)',
-    'LBL_CREATE_PROJECT'                      => 'Crea progetto',
+    'LBL_CREATE_PROJECT'                      => 'Crea cantiere',
 
     //Potentials Custom Field Mapping
     'LBL_CUSTOM_FIELD_MAPPING'=> 'Possibilità di progetto di mappatura',
