@@ -8,8 +8,8 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = [
-    'PurchaseOrder'                => 'Ordini d\'acquisto',
-    'SINGLE_PurchaseOrder'         => 'Ordini d\'acquisto',
+    'PurchaseOrder'                => 'Contabilità Cantiere',
+    'SINGLE_PurchaseOrder'         => 'Contabilità Cantiere',
     'LBL_EXPORT_TO_PDF'            => 'Esporta in PDF',
     'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF', // TODO: Review
     'LBL_ADD_RECORD'               => 'Add Purchase Order',

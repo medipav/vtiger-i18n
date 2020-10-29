@@ -10,7 +10,7 @@
 $languageStrings = [
     'Contacts'                        => 'Contatti',
     'SINGLE_Contacts'                 => 'Contatto',
-    'LBL_ADD_RECORD'                  => 'Add Contact',
+    'LBL_ADD_RECORD'                  => 'Crea Contatto',
     'LBL_RECORDS_LIST'                => 'Contacts List',
     'LBL_CONTACT_INFORMATION'         => 'Informazioni Contatto',
     'LBL_CUSTOMER_PORTAL_INFORMATION' => 'Informazioni Portale Clienti',
@@ -54,7 +54,7 @@ $languageStrings = [
 
     'Other Phone'     => 'Telefono Secondario',
     'Email'           => 'Email Principale',
-    'Secondary Email' => 'E-Mail Secondaria',
+    'Secondary Email' => 'Email Aziendale',
 
 ];
 $jsLanguageStrings = [
