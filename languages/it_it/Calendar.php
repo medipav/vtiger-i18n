@@ -8,9 +8,9 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = [
-    'Calendar'                                           => 'Calendar',
+    'Calendar'                                           => 'Calendario',
     'SINGLE_Calendar'                                    => 'Compito',
-    'LBL_ADD_TASK'                                       => 'Add Compito',
+    'LBL_ADD_TASK'                                       => 'Aggiungi Compito',
     'LBL_ADD_EVENT'                                      => 'Aggiungi Evento',
     'LBL_RECORDS_LIST'                                   => 'Vista per Lista',
     'LBL_EVENTS'                                         => 'Eventi',
