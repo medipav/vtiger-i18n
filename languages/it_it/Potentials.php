@@ -10,7 +10,7 @@
 $languageStrings = [
     'Potentials'                   => 'Opportunita\'',
     'SINGLE_Potentials'            => 'Opportunit&agrave;',
-    'LBL_ADD_RECORD'               => 'Add Opportunity',
+    'LBL_ADD_RECORD'               => 'Aggiungi Opportunita',
     'LBL_RECORDS_LIST'             => 'Opportunities List',
     'LBL_OPPORTUNITY_INFORMATION'  => 'Informazioni Opportunit&agrave;',
     'Potential No'                 => 'No. Opportunit&agrave;',
