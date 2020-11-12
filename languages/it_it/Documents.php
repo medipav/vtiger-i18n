@@ -10,7 +10,7 @@
 $languageStrings = [
     'SINGLE_Documents'                 => 'Documento',
     'Documents'                        => 'Documenti', // TODO: Review
-    'LBL_ADD_RECORD'                   => 'Add Document',
+    'LBL_ADD_RECORD'                   => 'Aggiungi Documenti',
     'LBL_RECORDS_LIST'                 => 'Documents List',
     'LBL_NOTE_INFORMATION'             => 'Informazioni Base',
     'LBL_FILE_INFORMATION'             => 'Informazioni file',
