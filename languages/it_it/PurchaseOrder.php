@@ -34,7 +34,7 @@ $languageStrings = [
     'LBL_BILLING_ADDRESS'       => 'Indirizzo di fatturazione',
     'LBL_COMPANY_ADDRESS'       => 'Indirizzo Azienda',
     'LBL_ACCOUNT_ADDRESS'       => 'Indirizzo Organizzazione',
-    'LBL_VENDOR_ADDRESS'        => 'Venditore Indirizzo',
+    'LBL_VENDOR_ADDRESS'        => 'Indirizzo Venditore',
     'LBL_CONTACT_ADDRESS'       => 'Contatto Indirizzo',
 
     'LBL_THIS'                                                                   => 'Questo',
