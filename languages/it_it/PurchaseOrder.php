@@ -35,7 +35,7 @@ $languageStrings = [
     'LBL_COMPANY_ADDRESS'       => 'Indirizzo Azienda',
     'LBL_ACCOUNT_ADDRESS'       => 'Indirizzo Organizzazione',
     'LBL_VENDOR_ADDRESS'        => 'Indirizzo Venditore',
-    'LBL_CONTACT_ADDRESS'       => 'Contatto Indirizzo',
+    'LBL_CONTACT_ADDRESS'       => 'Indirizzo Contatto',
 
     'LBL_THIS'                                                                   => 'Questo',
     'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM'          => 'viene eliminato dal sistema.si prega di rimuovere o sostituire questo elemento',
