@@ -26,7 +26,7 @@ $languageStrings = [
     'Received Shipment'            => 'Spedizione Ricevuta',
     'LBL_LIST_PRICE'               => 'Prezzo di listino',
     'List Price'                   => 'Prezzo di listino',
-    'LBL_COPY_COMPANY_ADDRESS'     => 'Copia Company Indirizzo',
+    'LBL_COPY_COMPANY_ADDRESS'     => 'Copia  Indirizzo Azienda',
     'LBL_COPY_ACCOUNT_ADDRESS'     => 'Copia Organizzazione Indirizzo',
 
     'LBL_COPY_ACCOUNT_ADDRESS'  => 'Copy Organization Address',
