@@ -9,7 +9,7 @@
  ************************************************************************************/
 $languageStrings = [
     'SINGLE_Documents'                 => 'Documento',
-    'Documents'                        => 'Documents', // TODO: Review
+    'Documents'                        => 'Documenti', // TODO: Review
     'LBL_ADD_RECORD'                   => 'Add Document',
     'LBL_RECORDS_LIST'                 => 'Documents List',
     'LBL_NOTE_INFORMATION'             => 'Informazioni Base',
