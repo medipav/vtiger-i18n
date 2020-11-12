@@ -49,7 +49,7 @@ $languageStrings = [
     'User List'                       => 'Lista Utente',
     'Contact Id'                      => 'Contatto Id',
     'Support Start Date'              => 'Supporto Data di inizio',
-    'Support End Date'                => 'Data di supporto End',
+    'Support End Date'                => 'Supporto Data di fine',
     'LBL_TRANSACTIONS'                => 'Transazioni',
 
     'Other Phone'     => 'Telefono Secondario',
