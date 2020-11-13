@@ -14,7 +14,7 @@ $languageStrings = [
     'LBL_EMAIL_TEMPLATES'   => 'Email Templates',
     'LBL_EMAIL_TEMPLATE'    => 'Email Template',
 
-    'LBL_TEMPLATE_NAME'                            => 'Template Name',
+    'LBL_TEMPLATE_NAME'                            => 'Nome Modello',
     'LBL_DESCRIPTION'                              => 'Descrizione',
     'LBL_SUBJECT'                                  => 'Soggetto',
     'LBL_GENERAL_FIELDS'                           => 'Campi Generali',
