@@ -78,7 +78,7 @@ $languageStrings = [
 ];
 $jsLanguageStrings = [
     'JS_NEW_FOLDER'                                 => 'Nuova Cartella',
-    'JS_MOVE_DOCUMENTS'                             => 'Move Documents',
+    'JS_MOVE_DOCUMENTS'                             => 'Sposta Documenti',
     'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'Are you sure you want to move the file(s) to',
     'JS_FOLDER'                                     => 'folder',
     'JS_OPERATION_DENIED'                           => 'Operation Denied',
