@@ -77,7 +77,7 @@ $languageStrings = [
     'LBL_SELECT_A_FOLDER_TO_MOVE'   => 'Si prega di selezionare una cartella di muoversi',
 ];
 $jsLanguageStrings = [
-    'JS_NEW_FOLDER'                                 => 'New Folder',
+    'JS_NEW_FOLDER'                                 => 'Nuova Cartella',
     'JS_MOVE_DOCUMENTS'                             => 'Move Documents',
     'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'Are you sure you want to move the file(s) to',
     'JS_FOLDER'                                     => 'folder',
