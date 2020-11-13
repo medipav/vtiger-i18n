@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = [
     'Email Templates'       => 'Email Template',
-    'LBL_ADD_RECORD'        => 'Add Email Template',
+    'LBL_ADD_RECORD'        => 'Aggiungi Email Template',
     'SINGLE_EmailTemplates' => 'Email Template',
     'LBL_EMAIL_TEMPLATES'   => 'Email Templates',
     'LBL_EMAIL_TEMPLATE'    => 'Email Template',
