@@ -20,7 +20,7 @@ $languageStrings = [
     'LBL_GENERAL_FIELDS'                           => 'Campi Generali',
     'LBL_SELECT_FIELD_TYPE'                        => 'Selezionare Moduli e Campi',
     'LBL_MODULE_NAME'                              => 'Nome del modulo',
-    'LBL_EMAIL_TEMPLATE_DESCRIPTION'               => 'Manage templates for E-Mail module',
+    'LBL_EMAIL_TEMPLATE_DESCRIPTION'               => 'Gestire i templates per i moduli E-Mail',
     'LBL_NO_PERMISSIONS_TO_DELETE_SYSTEM_TEMPLATE' => 'Non ci sono autorizzazioni per eliminare sistema Template',
     'LBL_RECORD_ID'                                => 'ID record',
 
