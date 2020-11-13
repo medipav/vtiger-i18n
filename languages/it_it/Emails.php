@@ -10,7 +10,7 @@
 $languageStrings = [
     'SINGLE_Emails'                     => 'Email', // TODO: Review
     'Emails'                            => 'Emails', // TODO: Review
-    'LBL_SELECT_EMAIL_IDS'              => 'Select Email Addresses',
+    'LBL_SELECT_EMAIL_IDS'              => 'Seleziona Indirizzo Email',
     'LBL_SUBJECT'                       => 'Soggetto',
     'LBL_ATTACHMENT'                    => 'Allegato',
     'LBL_BROWSE_CRM'                    => 'Browse CRM',
