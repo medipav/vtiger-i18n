@@ -9,10 +9,10 @@
  ************************************************************************************/
 $languageStrings = [
     'HelpDesk'                     => 'Assistenza Clienti',
-    'SINGLE_HelpDesk'              => 'Ticket',
+    'SINGLE_HelpDesk'              => 'Biglietto',
     'LBL_ADD_RECORD'               => 'Aggiungi Biglietto',
     'LBL_RECORDS_LIST'             => 'Elenco Biglietti',
-    'LBL_TICKET_INFORMATION'       => 'Informazioni Ticket',
+    'LBL_TICKET_INFORMATION'       => 'Informazioni Biglietto',
     'LBL_TICKET_RESOLUTION'        => 'Informazioni Soluzione',
     'Ticket No'                    => 'Biglietto n.',
     'Severity'                     => 'Importanza',
@@ -37,7 +37,7 @@ $languageStrings = [
     'Closed'                       => 'Chiuso',
     'LBL_STATUS'                   => 'Stato',
     'LBL_SEVERITY'                 => 'Importanza',
-    'LBL_CONVERT_FAQ'              => 'Convert to FAQ',
+    'LBL_CONVERT_FAQ'              => 'Converti per FAQ',
     'LBL_RELATED_TO'               => 'Relazionato a',
     'Related To'                   => 'Relativi a',
 
