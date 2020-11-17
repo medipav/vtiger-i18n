@@ -8,8 +8,8 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = [
-    'Project'                                  => 'Cantiere',
-    'SINGLE_Project'                           => 'Cantiere',
+    'Project'                                  => 'Gestione Cantieri',
+    'SINGLE_Project'                           => 'Gestione Cantiere',
     'LBL_ADD_RECORD'                           => 'Add Project',
     'LBL_RECORDS_LIST'                         => 'Projects List',
     'LBL_PROJECT_INFORMATION'                  => 'Informationi Cantiere',
