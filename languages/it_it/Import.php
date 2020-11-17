@@ -61,14 +61,14 @@ $languageStrings = [
     'LBL_FILE_UPLOAD_FAILED'                 => 'Caricamento File Fallito', // TODO: Review
     'LBL_IMPORT_CHANGE_UPLOAD_SIZE'          => 'Import Change Upload Size', // TODO: Review
     'LBL_IMPORT_DIRECTORY_NOT_WRITABLE'      => 'Import Directory is not writable', // TODO: Review
-    'LBL_IMPORT_FILE_COPY_FAILED'            => 'Import File copy failed', // TODO: Review
-    'LBL_INVALID_FILE'                       => 'Invalid File', // TODO: Review
-    'LBL_NO_ROWS_FOUND'                      => 'No rows found', // TODO: Review
-    'LBL_SCHEDULED_IMPORT_DETAILS'           => 'Your import has been scheduled and will start within 15 minutes. You will receive an email after import is completed.  <br> <br>
-                                        Please make sure that the Outgoing server and your email address is configured to receive email notification', // TODO: Review
-    'LBL_DETAILS'                  => 'Details', // TODO: Review
-    'skipped'                      => 'Skipped Records', // TODO: Review
-    'failed'                       => 'Failed Records', // TODO: Review
+    'LBL_IMPORT_FILE_COPY_FAILED'            => 'Copia del  File di importazione non riuscita', // TODO: Review
+    'LBL_INVALID_FILE'                       => 'File non valido', // TODO: Review
+    'LBL_NO_ROWS_FOUND'                      => 'Nessuna riga trovata', // TODO: Review
+    'LBL_SCHEDULED_IMPORT_DETAILS'           => 'La tua importazione è stata programmata e inizier&agrave entro 15 minuti . Riceverai un email al termine dell&#39;importazione.  <br> <br>
+                                        Assicurati che il server in uscita e il tuo indirizzo  email siano configurati per ricevere la  notifica email', // TODO: Review
+    'LBL_DETAILS'                  => 'Dettagli', // TODO: Review
+    'skipped'                      => 'Record Saltati', // TODO: Review
+    'failed'                       => 'Record Falliti', // TODO: Review
 
     'LBL_IMPORT_LINEITEMS_CURRENCY'=> 'Valuta (voci)',
 
