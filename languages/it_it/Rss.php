@@ -9,14 +9,14 @@
  ************************************************************************************/
 
 $languageStrings = [
-    'LBL_RSS_FEED_SOURCES'  => 'Fonti Feed Rss',
+    'LBL_RSS_FEED_SOURCES'  => 'Fonti alimentazione Rss',
     'LBL_ADD_FEED_SOURCE'   => 'Aggiungere fonte di alimentazione',
     'LBL_FEEDS_LIST_FROM'   => 'Feed List Da',
     'LBL_SET_AS_DEFAULT'    => 'Imposta come predefinito',
     'LBL_SENDER'            => 'trasmettitore',
     'LBL_FEED_SOURCE'       => 'fonte di alimentazione',
     'LBL_ENTER_FEED_SOURCE' => 'Inserisci fonte di alimentazione',
-    'SINGLE_Rss'            => 'di feed RSS',
+    'SINGLE_Rss'            => 'di alimentazione RSS',
 
     'Rss' => 'Rss',
 
