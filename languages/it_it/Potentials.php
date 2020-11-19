@@ -10,8 +10,8 @@
 $languageStrings = [
     'Potentials'                   => 'Opportunita\'',
     'SINGLE_Potentials'            => 'Opportunit&agrave;',
-    'LBL_ADD_RECORD'               => 'Aggiungi Opportunita',
-    'LBL_RECORDS_LIST'             => 'Opportunities List',
+    'LBL_ADD_RECORD'               => 'Aggiungi Opportunit&agrave;',
+    'LBL_RECORDS_LIST'             => 'Lista Opportunit&agrave;',
     'LBL_OPPORTUNITY_INFORMATION'  => 'Informazioni Opportunit&agrave;',
     'Potential No'                 => 'No. Opportunit&agrave;',
     'Amount'                       => 'Ammontare',
@@ -19,12 +19,12 @@ $languageStrings = [
     'Sales Stage'                  => 'Stadio di vendita',
     'Probability'                  => 'Probabilit&agrave; (%)',
     'Campaign Source'              => 'Fonte Campagna',
-    'Forecast Amount'              => 'Entrate Weighted',
-    'Funnel'                       => 'Sales Funnel',
-    'Potentials by Stage'          => 'Opportunities by Stage',
-    'Total Revenue'                => 'Revenue by Salesperson',
-    'Top Potentials'               => 'Top Opportunities',
-    'Forecast'                     => 'Sales Forecast',
+    'Forecast Amount'              => 'Entrate caricate',
+    'Funnel'                       => 'Vendite a imbuto',
+    'Potentials by Stage'          => 'Opportunit&agrave da Stage',
+    'Total Revenue'                => 'Fatturato da rivenditore',
+    'Top Potentials'               => 'Top Opportunit&agrave;',
+    'Forecast'                     => 'Previsione Vendite',
     'Prospecting'                  => 'In Prospettiva',
     'Qualification'                => 'Qualificazione',
     'Needs Analysis'               => 'Da Analizzare',
@@ -38,17 +38,17 @@ $languageStrings = [
     '--None--'                     => '--Nessuno--',
     'Existing Business'            => 'Business Esistente',
     'New Business'                 => 'Nuovo Business',
-    'LBL_EXPECTED_CLOSE_DATE_ON'   => 'Expected to close on',
-    'LBL_RELATED_CONTACTS'         => 'Related Contacts', // TODO: Review
-    'LBL_RELATED_PRODUCTS'         => 'Related Products', // TODO: Review
+    'LBL_EXPECTED_CLOSE_DATE_ON'   => 'Dovrebbe chiudere ',
+    'LBL_RELATED_CONTACTS'         => 'Contatti correlati', // TODO: Review
+    'LBL_RELATED_PRODUCTS'         => 'Prodotti correlati', // TODO: Review
     'Related To'                   => 'Nome organizzazione',
     'Type'                         => 'Tipo',
 
     //Convert Potentials
     'LBL_CONVERT_POTENTIAL'                   => 'Convertire Opportunità',
     'LBL_POTENTIALS_FIELD_MAPPING'            => 'Opportunità Mapping Campo',
-    'LBL_CONVERT_POTENTIALS_ERROR'            => 'Devi abilitare cantiere per convertire il Opportunity',
-    'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'Opportunità campo Mapping è incompleta (Impostazioni> Gestione moduli> Opportunità> Opportunità campo Mapping)',
+    'LBL_CONVERT_POTENTIALS_ERROR'            => 'Devi abilitare cantiere per convertire l&#39 Opportunit&agrave;',
+    'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'Opportunit&agrave; campo Mapping &egrave; a (Impostazioni> Gestione moduli> Opportunità> Opportunità campo Mapping)',
     'LBL_CREATE_PROJECT'                      => 'Crea cantiere',
 
     //Potentials Custom Field Mapping
