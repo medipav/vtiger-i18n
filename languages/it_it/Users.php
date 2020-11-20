@@ -70,7 +70,7 @@ $languageStrings = [
     'Default Call Duration'                           => 'Durata della chimata predefinita(Mins)', // TODO: Review
     'Other Event Duration'                            => 'Other Event Duration (Mins)', // TODO: Review
     'Calendar Hour Format'                            => 'Formato ora del Calendario', // TODO: Review
-    'Kwajalein'                                       => '(UTC-12:00) International Date Line West',
+    'Kwajalein'                                       => '(UTC-12:00) Linea di data internazionale ovest',
     'Pacific/Midway'                                  => '(UTC-11:00) Coordinated Universal Time-11',
     'Pacific/Samoa'                                   => '(UTC-11:00) Samoa',
     'Pacific/Honolulu'                                => '(UTC-10:00) Hawaii',
@@ -199,7 +199,7 @@ $languageStrings = [
     'LBL_PHONE'                                       => 'Telefono',
     'Space'                                           => 'Spazio',
     //picklist values for Default Calendar View field in MyPreference Page
-    'ListView'       => 'List View',
+    'ListView'       => 'Visualizzazione elenco',
     'MyCalendar'     => 'Il mio calendario',
     'SharedCalendar' => 'Calendario condiviso',
 
@@ -253,14 +253,14 @@ $languageStrings = [
 $jsLanguageStrings = [
 
     //Curency seperator validation messages
-    'JS_ENTER_OLD_PASSWORD'             => 'Please enter your old password.',
-    'JS_ENTER_NEW_PASSWORD'             => 'Please enter your new password.',
-    'JS_ENTER_CONFIRMATION_PASSWORD'    => 'Please enter your password confirmation.',
-    'JS_REENTER_PASSWORDS'              => 'Please re-enter passwords.  The \"new password\" and \"confirm password\" values do not match.',
-    'JS_INVALID_PASSWORD'               => 'You must specify a valid username and password.',
-    'JS_PASSWORD_CHANGE_FAILED_1'       => 'User password change failed for ',
-    'JS_PASSWORD_CHANGE_FAILED_2'       => ' failed.  The new password must be set.',
-    'JS_PASSWORD_INCORRECT_OLD'         => 'Incorrect old password specified. Re-enter password information.',
+    'JS_ENTER_OLD_PASSWORD'             => 'Per favore inserisci la tua vecchia password.',
+    'JS_ENTER_NEW_PASSWORD'             => 'Per favore inserisci la tua nuova password.',
+    'JS_ENTER_CONFIRMATION_PASSWORD'    => 'Per favore inserisci la tua password di conferma.',
+    'JS_REENTER_PASSWORDS'              => 'Per favore reinserisci la tua passwords.  La \"nuova password\" e \"conferma password\" non corisponde.',
+    'JS_INVALID_PASSWORD'               => '&Egrave; necessario specificare un nome utente e una  password.',
+    'JS_PASSWORD_CHANGE_FAILED_1'       => 'Modifica della password utente non riuscita per ',
+    'JS_PASSWORD_CHANGE_FAILED_2'       => 'Fallito.  La nuova password deve essere impostata.',
+    'JS_PASSWORD_INCORRECT_OLD'         => '&Egrave; stata specificatauna vecchia password errata. Inserire nuovamente le informazioni sulla password.',
     'JS_ENTERED_CURRENT_USERNAME_MSG'   => 'Hai inserito il nome utente corrente. Inserisci il nuovo nome utente.',
     'JS_NEW_ACCESS_KEY_REQUESTED'       => 'nuova chiave di accesso richiesto',
     'JS_CHANGE_ACCESS_KEY_CONFIRMATION' => 'Hai richiesto per una nuova chiave di accesso. &lt;br&gt;&lt;br&gt;Con la nuova disposizione chiave di accesso, è necessario sostituire la chiave di accesso vecchio con quello nuovo in tutte le estensioni installate. &lt;br&gt;&lt;br&gt;Do si desidera continuare?',
