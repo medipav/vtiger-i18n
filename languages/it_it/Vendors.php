@@ -10,8 +10,8 @@
 $languageStrings = [
     'Vendors'                        => 'Fornitori',
     'SINGLE_Vendors'                 => 'Fornitore',
-    'LBL_ADD_RECORD'                 => 'Add Vendor',
-    'LBL_RECORDS_LIST'               => 'Vendors List',
+    'LBL_ADD_RECORD'                 => 'Aggiungi Fornitore',
+    'LBL_RECORDS_LIST'               => 'Lista Fornitori',
     'LBL_VENDOR_INFORMATION'         => 'Informazioni Fornitore:',
     'LBL_VENDOR_ADDRESS_INFORMATION' => 'Informazioni Indirizzo:',
     'Vendor Name'                    => 'Nome Fornitore',
@@ -33,7 +33,7 @@ $languageStrings = [
 
 ];
 $jsLanguageStrings = [
-    'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to delete?',
-    'LBL_DELETE_CONFIRMATION'                => 'Deleting this Vendor will remove its related PurchaseOrders. Are you sure you want to delete this Vendor?',
-    'LBL_MASS_DELETE_CONFIRMATION'           => 'Deleting this vendor(s) will remove its related Purchase Orders. Are you sure you want to delete the selected Records?',
+    'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Sei sicuro di voler eliminare?',
+    'LBL_DELETE_CONFIRMATION'                => 'L&#39; eliminazione di questi fornitori rimupver&agrave; i relativi ordini di acquisto .Sei sicuro di voler eliminare i relativi ordini d&#39; acquisto?',
+    'LBL_MASS_DELETE_CONFIRMATION'           => 'Deleting this vendor(s) will remove its related Purchase Orders. L&#39; eliminazione di questi fornitori rimuover&agrave; i relativi ordini d&#acquisto. Sei sicuro di voler eliminare i record selezionati?',
 ];

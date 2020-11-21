@@ -8,16 +8,16 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = [
-    'SINGLE_ProjectMilestone'              => 'Cantiere Milestone',
-    'LBL_ADD_RECORD'                       => 'Aggiungi Milestone Cantiere',
-    'LBL_RECORDS_LIST'                     => 'Cantiere Lista Milestones',
+    'SINGLE_ProjectMilestone'              => 'Cantiere Pietra Miliare',
+    'LBL_ADD_RECORD'                       => 'Aggiungi Pietra Miliare Cantiere',
+    'LBL_RECORDS_LIST'                     => 'Lista pietre miliari cantieri',
     'LBL_PROJECTS_LIST'                    => 'Lista Cantieri',
-    'LBL_TASKS_LIST'                       => 'List Tasks',
-    'LBL_MILESTONES_LIST'                  => 'Lista Milestones',
-    'LBL_PROJECT_MILESTONE_INFORMATION'    => 'Cantiere Milestone Dettagli',
-    'Project Milestone Name'               => 'Cantiere Milestone Nome',
-    'Milestone Date'                       => 'Milestone Data',
-    'Project Milestone No'                 => 'Cantiere Numero Milestone',
+    'LBL_TASKS_LIST'                       => 'Lista Attivit&agrave;',
+    'LBL_MILESTONES_LIST'                  => 'Lista Pietre Miliari',
+    'LBL_PROJECT_MILESTONE_INFORMATION'    => 'Dettagli pietra miliare cantiere',
+    'Project Milestone Name'               => 'Nome pietra miliare cantiere',
+    'Milestone Date'                       => 'Data pietra miliare',
+    'Project Milestone No'                 => 'Numero pietra miliare cantiere',
     'Type'                                 => 'Tipo',
     //picklist values
     'administrative'               => 'Amministrativo',
