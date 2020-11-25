@@ -10,8 +10,8 @@
 $languageStrings = [
     'Campaigns'                       => 'Campagne',
     'SINGLE_Campaigns'                => 'Campagna',
-    'LBL_ADD_RECORD'                  => 'Add Campaign',
-    'LBL_RECORDS_LIST'                => 'Campaigns List',
+    'LBL_ADD_RECORD'                  => 'Aggiungi Campagna',
+    'LBL_RECORDS_LIST'                => 'Lista Campagna',
     'LBL_CAMPAIGN_INFORMATION'        => 'Informazioni Campagna',
     'LBL_EXPECTATIONS_AND_ACTUALS'    => 'Previsti &amp; Effettivi',
     'Campaign Name'                   => 'Nome Campagna',
