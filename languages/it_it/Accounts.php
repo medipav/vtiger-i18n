@@ -47,9 +47,9 @@ $languageStrings = [
 
 ];
 $jsLanguageStrings = [
-    'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to Delete?',
-    'LBL_DELETE_CONFIRMATION'                => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?',
-    'LBL_MASS_DELETE_CONFIRMATION'           => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?',
+    'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Sei sicuro di volerlo cancellare?',
+    'LBL_DELETE_CONFIRMATION'                => 'L&#39; eliminazione di questa organizzazione rimuover&agrave; le relative opportunit&agrave; e preventivi. Sei sicuro di voler eliminare questa organizzazione?',
+    'LBL_MASS_DELETE_CONFIRMATION'           => 'L&#39; eliminazione di questa organizzazione rimuover&agrave; le relative opportunit&agrave e preventivi;. Sei sicuro di voler eliminare questa organizzazione?',
 
     'JS_DUPLICATE_CREATION_CONFIRMATION' => 'Organizzazione Nome Esiste già.Vuoi creare un record duplicato?',
 
