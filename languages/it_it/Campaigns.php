@@ -49,9 +49,9 @@ $languageStrings = [
     'Average'                         => 'Medio',
     'Poor'                            => 'Scarso',
     '--None--'                        => '--Nessuno--',
-    'Contacted - Successful'          => 'Contacted - Successful',
-    'Contacted - Unsuccessful'        => 'Contacted - Unsuccessful',
-    'Contacted - Never Contact Again' => 'Contacted - Never Contact Again',
+    'Contacted - Successful'          => 'Contattato - Successo',
+    'Contacted - Unsuccessful'        => 'Contattato - Non riuscito',
+    'Contacted - Never Contact Again' => 'Contattato - mai contattato',
 ];
 
 $jsLanguageStrings = [
