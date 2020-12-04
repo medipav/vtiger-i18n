@@ -38,7 +38,7 @@ $languageStrings = [
     'LBL_DUPLICATES_EXIST'         => 'Organization Name already exists',
     'LBL_COPY_SHIPPING_ADDRESS'    => 'Indirizzo Copy spedizione', // TODO: Review
     'LBL_COPY_BILLING_ADDRESS'     => 'Copia indirizzo di fatturazione', // TODO: Review
-    'LBL_IMAGE_INFORMATION'        => 'Picture Profile',
+    'LBL_IMAGE_INFORMATION'        => 'Immagine del profilo',
     'Organization Image'           => 'Organizzazione Immagine',
 
     'Other Phone' => 'Telefono Secondario',
