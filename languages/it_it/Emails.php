@@ -33,13 +33,13 @@ $languageStrings = [
     'LBL_INFO'                          => 'Info', // TODO: Review
     'LBL_DRAFTED_ON'                    => 'Abbozzato', // TODO: Review
     'LBL_SENT_ON'                       => 'Inviato', // TODO: Review
-    'LBL_OWNER'                         => 'proprietario', // TODO: Review
+    'LBL_OWNER'                         => 'Proprietario', // TODO: Review
     'Date & Time Sent'                  => 'Data Inviato', // TODO: Review
     'Time Start'                        => 'misit',
     'LBL_EMAIL_INFORMATION'             => 'E-mail Informazione',
     'LBL_EMAILTEMPLATE_WARNING'         => 'Sono l unione-tag correggere',
-    'LBL_EMAILTEMPLATE_WARNING_CONTENT' => 'Si prega di assicurarsi che il modello selezionato dispone di unire-tag relativi al record destinatario. 
-                                             Se si invia una mail a piombo, ma l unione-tag appartieni Modulo di contatto (es: $contacts-lastname$), 
+    'LBL_EMAILTEMPLATE_WARNING_CONTENT' => 'Si prega di assicurarsi che il modello selezionato dispone di unire-tag relativi al record destinatario.
+                                             Se si invia una mail a piombo, ma l unione-tag appartieni Modulo di contatto (es: $contacts-lastname$),
                                              quindi non verranno uniti i valori.',
     'Draft'                        => 'Bozza',
     'Parent ID'                    => 'Parent Record',
