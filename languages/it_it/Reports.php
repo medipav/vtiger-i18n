@@ -186,7 +186,7 @@ $languageStrings = [
     'LBL_PIN_CHART_TO_DASHBOARD'      => 'Grafico Pin Per Cruscotto',
     'LBL_FILE_FORMAT'                 => 'Formato di file',
 
-    'Report Type'                      => 'Tipo di rapporto',
+    'Report Type'                      => 'Tipo',
     'tabular'                          => 'Dettaglio',
     'summary'                          => 'Dettaglio',
     'pivot'                            => 'Perno',
